@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3781470e-12ac-432c-9b77-0f40dea16c37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3781470e-12ac-432c-9b77-0f40dea16c37" name="Changes" comment="feat: implementação projeto de fila" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,6 +85,35 @@
       <option name="presentableId" value="Default" />
       <updated>1701026041630</updated>
     </task>
+    <task id="LOCAL-00001" summary="chore: configurações do projeto">
+      <created>1701026809104</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701026809104</updated>
+    </task>
+    <task id="LOCAL-00002" summary="chore: configurações do projeto">
+      <created>1701026819211</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701026819211</updated>
+    </task>
+    <task id="LOCAL-00003" summary="docs: documentação da execução do projeto">
+      <created>1701026837842</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701026837842</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: implementação projeto de fila">
+      <created>1701026849903</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701026849903</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,10 +121,28 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chore: configurações do projeto" />
+    <MESSAGE value="docs: documentação da execução do projeto" />
+    <MESSAGE value="feat: implementação projeto de fila" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: implementação projeto de fila" />
   </component>
 </project>
